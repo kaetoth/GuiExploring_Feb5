@@ -7,7 +7,8 @@
                 android:paddingTop="@dimen/activity_vertical_margin"
                 android:paddingBottom="@dimen/activity_vertical_margin"
                 tools:context=".MainActivity"
-                android:background="#cfc64224">
+                android:background="#cfc64224"
+                android:focusableInTouchMode="true">
 
     <LinearLayout
         android:orientation="vertical"
